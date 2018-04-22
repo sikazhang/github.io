@@ -5,7 +5,7 @@
   <channel>
     <title>WHUZXQ</title>
     <link>http://bigbigbigking.coding.me/bigbigbigking/</link>
-    <atom:link href="/bigbigbigking/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>前端伊甸园</description>
     <pubDate>Sun, 22 Apr 2018 03:50:19 GMT</pubDate>
